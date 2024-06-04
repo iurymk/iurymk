@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iurymk and I'm a medical physics student
-- 👀 I’m interested in IA 
-- 🌱 I’m currently learning about machine learning with python and ESAPI with C#
+- 👋 Hi, I’m @iurymk and I'm a medical physics and master's student in information technology
+- 👀 I’m interested in IA and Data Science
+- 🌱 I’m currently learning about machine learning with python and .NET Framework aplications in Radiotherapy
 - 📫 How to reach me: iurymergenknoll@gmail.com 
 
 <!---
